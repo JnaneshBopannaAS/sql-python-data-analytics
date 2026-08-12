@@ -51,4 +51,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1789-primary-department-for-each-employee](https://github.com/JnaneshBopannaAS/sql-python-data-analytics/tree/master/1789-primary-department-for-each-employee) |
 | [1890-the-latest-login-in-2020](https://github.com/JnaneshBopannaAS/sql-python-data-analytics/tree/master/1890-the-latest-login-in-2020) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/JnaneshBopannaAS/sql-python-data-analytics/tree/master/1978-employees-whose-manager-left-the-company) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/JnaneshBopannaAS/sql-python-data-analytics/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
